@@ -232,4 +232,5 @@ For questions, issues, or feature requests:
 
 **Built with ❤️ using modern web technologies**
 
-*Last updated: December 2024*
+*Last updated: August 2025*
+
